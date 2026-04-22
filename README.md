@@ -1,5 +1,5 @@
 # Kowser-Ahmed-XP
-A Faithfull XP inspired interface , Custom built to showcase my work and attention to details.
+A Faithfull Windows-XP inspired interface , Custom built to showcase my work and attention to details.
 
 <img width="1918" height="912" alt="image" src="https://github.com/user-attachments/assets/2ad9385f-4c26-42d0-92f0-d34204b1c23b" />
 
