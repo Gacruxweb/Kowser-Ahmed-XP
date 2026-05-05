@@ -37,7 +37,7 @@ About Unofficial Versions
 If you encounter this project on any website other than the official source, it is not authorized. These versions are often incomplete, unstable, and fail to represent the original work accurately.
 
 For the best experience and authenticity, always refer to the official version.
-
+---
 <p align="left">
   <a href="https://kowser.online">
     <img src="https://img.shields.io/badge/Website-FF6A00?style=for-the-badge&logo=google-chrome&logoColor=white" />
