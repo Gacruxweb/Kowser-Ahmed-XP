@@ -35,8 +35,8 @@ The underlying codebase and implementation are privately owned. While you’re w
 About Unofficial Versions
 ---
 If you encounter this project on any website other than the official source, it is not authorized. These versions are often incomplete, unstable, and fail to represent the original work accurately.
-
 For the best experience and authenticity, always refer to the official version.
+ 
 ---
 <p align="left">
   <a href="https://kowser.online">
